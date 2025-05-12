@@ -158,7 +158,7 @@ También puede ingresar al [LINK](https://bank-marketing-4geeks.streamlit.app/)
 
 ## 📥 Descargar el Modelo
 
-Puedes descargar el modelo entrenado para tus experimentos: [Descargar Modelo LightGBM](https://github.com/rodri-iot/Final_Project_Data_Science/blob/main/models/bank_marketing_lgbm_model.joblib)
+Puedes descargar el modelo entrenado para tus experimentos: [Descargar Modelo LightGBM](https://github.com/rodri-iot/Final_Project_Data_Science/blob/main/models/lightgbm_model.joblib)
 
 ---
 
